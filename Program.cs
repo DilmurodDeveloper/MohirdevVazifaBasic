@@ -133,7 +133,7 @@ int x = int.Parse(Console.ReadLine());
 List<int> boluvchilar = new List<int>();
 List<int> boluvchilar2 = new List<int>();
 
-for (int i = 1; i <= n; i++)
+for (int i = 1; i <= x; i++)
 {
     if (x % i == 0)
     {
