@@ -135,7 +135,7 @@ List<int> boluvchilar2 = new List<int>();
 
 for (int i = 1; i <= n; i++)
 {
-    if (n % i == 0)
+    if (x % i == 0)
     {
         boluvchilar.Add(i);
     }
